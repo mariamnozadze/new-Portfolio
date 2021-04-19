@@ -1996,6 +1996,7 @@ figure.dotted-bg:before {
 @media (max-width: 767.98px) {
   .contact-info-v1 {
     text-align: center;
+    margin-left: 15%;
   }
 }
 
@@ -2445,7 +2446,7 @@ span.error {
   left: 0;
   right: 0;
   bottom: 0;
-  background: black;
+  background: #141414;
 }
 
 .gsap-reveal-hero {
