@@ -1995,8 +1995,9 @@ figure.dotted-bg:before {
 
 @media (max-width: 767.98px) {
   .contact-info-v1 {
-    text-align: center;
+    text-align: left;
     margin-left: 15%;
+    margin-top: 10%;
   }
 }
 
